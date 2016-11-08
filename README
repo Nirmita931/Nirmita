@@ -1,0 +1,5 @@
+git status
+git add nirmita
+git status
+git commit -m "This is a README"
+
